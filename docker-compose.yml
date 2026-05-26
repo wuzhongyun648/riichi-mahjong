@@ -1,0 +1,9 @@
+# docker-compose.yml — Stage C placeholder.
+#
+# When the FastAPI server is online, this file will define:
+#   - server   (FastAPI + Uvicorn)
+#   - redis    (room state, session, presence)
+#   - postgres (users, replays, rankings)
+#   - web      (Vite dev server / nginx-served production bundle)
+#
+# Empty for now to avoid premature configuration churn.

@@ -1,0 +1,11 @@
+{
+  "name": "mahjong-web",
+  "version": "0.0.1",
+  "private": true,
+  "description": "React + TypeScript + Vite front-end for the Riichi Mahjong platform. Stage C scope.",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Stage C placeholder — wire up Vite in M8.' && exit 0",
+    "build": "echo 'Stage C placeholder — wire up Vite in M8.' && exit 0"
+  }
+}
